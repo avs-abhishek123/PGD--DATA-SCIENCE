@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SowmyaVijeth
+- 👋 Hi, I’m SowmyaVijeth
 - 👀 I’m interested in Data Analytics and Data Science
 - 🌱 I’m currently pursuing Master's in Data Science from LJMU
 - 📫 Reach me on vasishta.s@gmail.com
